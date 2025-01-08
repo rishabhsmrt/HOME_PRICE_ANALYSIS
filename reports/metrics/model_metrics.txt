@@ -1,0 +1,6 @@
+Model Evaluation Metrics
+Baseline Model (Linear Regression): R²=0.2185, RMSE=19.8273
+Random Forest: R²=-12.0305, RMSE=80.9611
+XGBoost: R²=-12.8704, RMSE=83.5295
+Cross-Validation R² (Linear Regression): [-5.690533059299442, -0.11307924017533355, 0.24792580335437608, 0.41917758216035794, 0.18377045329971586]
+Mean CV R²: -0.9905

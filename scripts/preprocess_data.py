@@ -51,7 +51,7 @@ def preprocess_data(input_file, output_file):
     df['observation_date'] = pd.to_datetime(df['observation_date'])
     
     # Drop specified columns
-    columns_to_drop = ['SPPOPGROWUSA', 'FIXHAI', 'CES0500000003']
+    columns_to_drop = ['SPPOPGROWUSA', 'FIXHAI', 'FEDFUNDS', 'UNRATE', 'CPIAUCSL']
     df.drop(columns=columns_to_drop, errors='ignore', inplace=True)
     print(f"Dropped columns: {columns_to_drop}")
     
