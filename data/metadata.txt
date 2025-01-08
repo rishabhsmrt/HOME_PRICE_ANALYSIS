@@ -1,0 +1,11 @@
+Independendant Variable -
+
+CSUSHPISA - S&P Case-Shiller Home Price Index (CSUSHPISA) as a proxy for home prices.
+
+Dependendant Variable - 
+
+MORTGAGE30US - Mortgage rates 30-year fixed mortgage rate (FRED series MORTGAGE30US)
+UNRATE - Unemployment Rate, US Unemployment Rate (FRED series UNRATE)
+HOUST - Housing starts (FRED series HOUST)
+CPIAUCSL - Inflation, Consumer Price Index (FRED series CPIAUCSL)
+FEDFUNDS - Interest Rates, Federal Funds Rate (FRED series FEDFUNDS)
